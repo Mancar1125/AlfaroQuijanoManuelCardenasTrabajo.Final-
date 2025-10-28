@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\bin\Debug\net9.0\FinalProgramacion.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\bin\Debug\net9.0\FinalProgramacion.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\bin\Debug\net9.0\FinalProgramacion.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\bin\Debug\net9.0\FinalProgramacion.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\bin\Debug\net9.0\FinalProgramacion.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\refint\FinalProgramacion.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\FinalProgramacion.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\FinalProgramacion\FinalProgramacion\obj\Debug\net9.0\ref\FinalProgramacion.dll
